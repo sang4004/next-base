@@ -1,0 +1,18 @@
+.header {
+  position: sticky;
+  z-index: 100;
+  top: 0;
+  width: 100%;
+  margin: 0 auto;
+  padding: 12px 13px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+  background: #ffffff;
+  flex-wrap: wrap;
+
+  p {
+    font-size: 15px;
+  }
+}
